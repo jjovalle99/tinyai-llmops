@@ -1,4 +1,4 @@
-format_w1s1:
+format:
 	black *.py
 	isort *.py
 

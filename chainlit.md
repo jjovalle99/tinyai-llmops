@@ -1,0 +1,2 @@
+# Welcome to TinyAI! 🚀🤖
+Hello! I'm your friendly chatbot, ready to assist you with a wide range of topics. Whether you have questions, need advice, or just want to chat, I'm here to help. Let's get started!
